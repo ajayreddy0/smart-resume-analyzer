@@ -62,7 +62,7 @@ smart-resume-analyzer/
 
 ## 🌝 Author
 **Ajay Reddy**  
-[GitHub](https://github.com/your-username) <!-- Replace with your GitHub URL -->
+[GitHub](https://github.com/ajayreddy0) 
 
 ---
 
